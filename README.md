@@ -1,5 +1,5 @@
 # Random-Decimal-Number
-## A simple and practical iterator to generate and use some random decimal numbers was written with python 3.10
+## A simple and practical iterator to generate and use some random decimal numbers was written in python 3.10
 
 ### Features:
 
