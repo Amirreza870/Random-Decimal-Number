@@ -7,6 +7,8 @@
 - Figure parameter to control decimal figures
 - Count parameter to get determined numbers
 - Type hinted
+- Clear Source
+- Complete description in docstring
 - Bugs fixed as much as possible 
 
 #### Here are some examples:
