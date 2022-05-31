@@ -12,7 +12,7 @@
 - Bugs fixed as much as possible 
 
 #### Here are some examples:
-```
+```python
 from random_decimal_number import RandomDecimalNumber
 
 domain = (1, 100)
